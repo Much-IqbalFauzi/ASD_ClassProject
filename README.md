@@ -1,2 +1,2 @@
 # ASD_FinalProject
-Algorithm and Data Structure Class final project.
+Algorithm and Data Structure Class project.
